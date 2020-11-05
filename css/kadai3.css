@@ -1,0 +1,35 @@
+h1{
+    color:azure;
+    font-size:50px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: coral;
+}
+h2{
+    color: darkblue;
+    font-size:50px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: darkturquoise;
+}
+h3{
+    color: crimson;
+}
+p{
+    color: chartreuse;
+}
+body{
+    background-image: url(../images/back2.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top left;
+}
+
+
+
+
+
+
+
