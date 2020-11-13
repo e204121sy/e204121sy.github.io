@@ -1,0 +1,31 @@
+h1{
+    color: cornflowerblue;
+    font-size:50px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: blueviolet ;
+}
+h3{
+   color: darkseagreen;
+    font-size:50px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: deeppink; 
+}
+table{
+    background-color: coral;
+}
+ol{
+    background-image: url(../images/back8.jpeg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top left; 
+}
+body{
+    background-image: url(../images/back3.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top left;
+}
