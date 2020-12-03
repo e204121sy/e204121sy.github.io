@@ -1,0 +1,37 @@
+.yellowcolor{
+    color: yellow;
+}
+.graycolor{
+   background-color:gray
+}
+.aquamarinecolor{
+    background-color: aquamarine; 
+    color: azure
+}
+h1{
+    font-size: 50px;
+    color:azure;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: coral;
+}
+
+h3{
+    color: darkblue;
+    font-size:40px;
+    font-weight:bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color:darkturquoise;
+}
+h3:hover{
+    background-color: aqua;
+}
+
+body{
+    background-image: url(../images/back9.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top left;
+}
