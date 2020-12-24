@@ -1,0 +1,90 @@
+div.title{
+    width: 990px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 10px
+}
+div.menu{
+    font-size: 0;
+    background-color: aliceblue;
+    width: 1000px;
+    height: 320px;
+}
+div.menu2{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    margin-right: 50px;
+    background-color: gray;
+    height: 320px;
+}
+div.menuitem1{
+    width: 250px;
+    height: 70px;
+    background-color: crimson;
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+div.menuitem2{
+    width: 250px;
+    height: 70px;
+    background-color: crimson;
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+div.menuitem3{
+    width: 250px;
+    height: 70px;
+    background-color: crimson;
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+div.image1{
+    width: 700px;
+    height: 200px;
+    background-color: chartreuse;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
+div.image2{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+    font-size: 15px;
+    text-align: center;
+}
+
+div.footer{
+    width: 990px;
+    height: 40px;
+    background-color: black;
+    font-size: 30px;
+    color: white;
+    text-align: right;
+    margin-top: 20px;
+    padding: 0px 10px 0px 0px;
+}
+
+div.images{
+    width: 700px;
+    vertical-align: top;
+    display: inline-block;
+    background-color: gray;
+    height: 320px;
+}
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+
